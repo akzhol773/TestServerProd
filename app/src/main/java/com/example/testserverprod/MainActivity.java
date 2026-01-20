@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     private MyHttpServer server;
 
     // Pick a port. If you want “random free port”, that’s a bit different; this is simplest.
-    private final int PORT = 8080;
+    private final int PORT = 8686;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
